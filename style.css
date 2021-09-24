@@ -60,17 +60,17 @@ body {
   border-radius: 20px;
 }
 
-.projeto-titulo {
+.projetos ul {
   list-style: none;
+  padding-left: 0;
   font-weight: 700;
-  font-size: 36px;
+  font-size: 24px;
 }
 
-.projetos-item {
+.projetos li {
   list-style-type: none;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 48px;
+  font-size: 20px;
+  line-height: 2em;
 }
 
 .projetos-item a {
